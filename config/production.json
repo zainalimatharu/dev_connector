@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://zainalimatharu:2015-Ag-55-rehan3@cluster0-7h9xg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "a6675537dc6ec34ff278",
+    "githubSecret": "1f1eac2c53297d8559d7158b54c51bf4173f7783"
+}
